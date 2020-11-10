@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Name is Alexandre Souza, and I'm currently living in Amsterdam, after spending several years working on awesome projects in Dublin, Ireland.
+
 <!--
 **alexz76/alexz76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
